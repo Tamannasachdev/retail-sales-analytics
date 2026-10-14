@@ -73,6 +73,8 @@ Regular performance monitoring can help identify unusual sales movements and exa
 
 A targeted win-back campaign could prioritize at-risk customers based on purchase recency and historical customer revenue.
 
+## Dashboard Preview
+![Dashboard Image](sales_dashboard.png)
 
 ## Lessons Learned
 
